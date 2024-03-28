@@ -1,0 +1,9 @@
+A:987456321P:Juan:Española:2024-03-27
+A:123987456T:Alvaro:Francesa:2024-03-27
+A:523698742H:Maria:Española:2024-03-27
+A:569874123W:Felipe:Inglesa:2024-03-27
+A:369852147N:Sandra:Española:2024-03-27
+P:654123987Y:Miguel:Matematicas
+P:321789654B:Laura:Lengua
+asignatura:2:Lengua:100:Profesor / Nombre= Laura, DNI= 321789654B, Departamento=Lengua:[Alumno / Nombre= Maria, DNI= 523698742H, Fecha de matriculacion=2024-03-27, Nacionalidad=Española, Alumno / Nombre= Sandra, DNI= 369852147N, Fecha de matriculacion=2024-03-27, Nacionalidad=Española, Alumno / Nombre= Alvaro, DNI= 123987456T, Fecha de matriculacion=2024-03-27, Nacionalidad=Francesa]
+asignatura:1:Matematicas:500:Profesor / Nombre= Miguel, DNI= 654123987Y, Departamento=Matematicas:[Alumno / Nombre= Felipe, DNI= 569874123W, Fecha de matriculacion=2024-03-27, Nacionalidad=Inglesa, Alumno / Nombre= Alvaro, DNI= 123987456T, Fecha de matriculacion=2024-03-27, Nacionalidad=Francesa]
